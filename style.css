@@ -129,4 +129,8 @@ nav ul li a:hover, a.active{
     border: 1px 2px 5px solid;
     background-color: orange;
     padding: 5px;
+    box-sizing: content-box;
+    color: white;
+    width: 45%;
+    text-align: center;
 }
